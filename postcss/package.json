@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "cssnano": "^3.3.2",
+    "gulp": "^3.9.0",
+    "gulp-cssnext": "^1.0.1",
+    "gulp-postcss": "^6.0.1",
+    "gulp-sass": "^2.1.0"
+  }
+}
